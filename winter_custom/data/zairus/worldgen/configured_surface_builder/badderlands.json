@@ -1,0 +1,14 @@
+{
+  "config": {
+    "top_material": {
+      "Name": "minecraft:light_gray_concrete_powder"
+    },
+    "under_material": {
+      "Name": "minecraft:dead_brain_coral_block"
+    },
+    "underwater_material": {
+      "Name": "minecraft:soul_sand"
+    }
+  },
+  "type": "minecraft:badlands"
+}

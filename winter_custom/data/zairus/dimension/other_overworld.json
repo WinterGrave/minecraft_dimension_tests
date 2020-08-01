@@ -1,0 +1,12 @@
+{
+	"type": "zairus:other_overworld_funtime",
+	"generator": {
+		"biome_source": {
+			"biome": "zairus:badderlands",
+			"type": "minecraft:fixed"
+		},
+		"seed": 4534879394941297019,
+		"settings": "minecraft:overworld",
+		"type": "minecraft:noise"
+	}
+}
