@@ -1,0 +1,34 @@
+{
+	"config": {
+		"top_material": {
+		  "Properties": {
+			"snowy": "false"
+		  },
+		  "Name": "minecraft:red_terracotta"
+		},
+		"under_material": {
+		  "Name": "minecraft:cyan_terracotta"
+		},
+		"underwater_material": {
+		  "Name": "minecraft:clay"
+		}
+	},
+	"type": "minecraft:swamp",
+	"_comment": [
+		"default",
+		"mountain",
+		"shattered_savanna",
+		"gravelly_mountain",
+		"giant_tree_taiga",
+		"swamp",
+		"badlands",
+		"wooded_badlands",
+		"eroded_badlands",
+		"frozen_ocean",
+		"nether",
+		"nether_forest",
+		"soul_sand_valley",
+		"basalt_deltas",
+		"nope"
+	]
+}

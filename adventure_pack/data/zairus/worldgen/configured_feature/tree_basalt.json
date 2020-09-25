@@ -1,0 +1,32 @@
+{
+	"type": "minecraft:decorated",
+	"config": {
+		"feature": {
+			"type": "minecraft:huge_fungus",
+			"config": {
+				"hat_state": {
+					"Name": "minecraft:gray_wool"
+				},
+				"decor_state": {
+					"Name": "minecraft:cobweb"
+				},
+				"planted": false,
+				"valid_base_block": {
+					"Name": "minecraft:netherrack"
+				},
+				"stem_state": {
+					"Properties": {
+						"axis": "y"
+					},
+					"Name": "minecraft:basalt"
+				}
+			}
+		},
+		"decorator": {
+			"type": "minecraft:count_multilayer",
+			"config": {
+				"count": 1
+			}
+		}
+	}
+}
