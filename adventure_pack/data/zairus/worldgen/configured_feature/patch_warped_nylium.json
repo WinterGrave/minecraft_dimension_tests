@@ -22,7 +22,7 @@
 					}
 				],
 				"blacklist": [],
-				"tries": 8,
+				"tries": 3,
 				"xspread": 2,
 				"yspread": 1,
 				"zspread": 2,
@@ -35,7 +35,7 @@
 			"type": "minecraft:carving_mask",
 			"config": {
 				"step": "air",
-				"probability": 0.1
+				"probability": 0.05
 			}
 		}
 	}

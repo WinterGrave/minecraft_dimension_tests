@@ -134,8 +134,8 @@
 						"salt": 0
 					},
 					"minecraft:village": {
-						"spacing": 32,
-						"separation": 8,
+						"spacing": 10,
+						"separation": 4,
 						"salt": 10387312
 					},
 					"minecraft:shipwreck": {

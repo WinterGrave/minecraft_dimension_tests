@@ -1,9 +1,6 @@
 {
 	"config": {
 		"top_material": {
-		  "Properties": {
-			"snowy": "false"
-		  },
 		  "Name": "minecraft:red_terracotta"
 		},
 		"under_material": {
@@ -13,7 +10,7 @@
 		  "Name": "minecraft:clay"
 		}
 	},
-	"type": "minecraft:swamp",
+	"type": "minecraft:default",
 	"_comment": [
 		"default",
 		"mountain",

@@ -1,0 +1,15 @@
+{
+	"name": "zairus:abandoned_structures/surface_mine/bottom",
+	"fallback": "minecraft:empty",
+	"elements": [
+		{
+			"weight": 4,
+			"element": {
+				"element_type": "minecraft:legacy_single_pool_element",
+				"projection": "rigid",
+				"processors": "minecraft:empty",
+				"location": "zairus:surface_mine/centers/center1_bottom"
+			}
+		}
+	]
+}

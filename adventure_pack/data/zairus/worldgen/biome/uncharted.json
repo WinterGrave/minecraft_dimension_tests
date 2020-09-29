@@ -17,8 +17,8 @@
 	  "fog_color": 12638463,
 	  "water_color": 4159204,
 	  "water_fog_color": 329011,
-	  "foliage_color": 15782519,
-	  "grass_color": 15782519,
+	  "foliage_color": 1494488,
+	  "grass_color": 1494488,
 	  "grass_color_modifier": "dark_forest"
 	},
 	"surface_builder": "zairus:uncharted_surface_builder",
@@ -34,7 +34,8 @@
 		"zairus:patch_netherrack",
 		"zairus:patch_warped_nylium",
 		"zairus:patch_coarse_dirt",
-		"zairus:patch_dirt"
+		"zairus:patch_dirt",
+		"zairus:patch_grass_block"
 	  ],
 	  [],
 	  [],
@@ -78,7 +79,7 @@
 	  ]
 	],
 	"starts": [
-		"zairus:abandoned_camp",
+		"zairus:abandoned_structures",
 		"minecraft:pillager_outpost",
 		"minecraft:mineshaft",
 		"minecraft:stronghold",

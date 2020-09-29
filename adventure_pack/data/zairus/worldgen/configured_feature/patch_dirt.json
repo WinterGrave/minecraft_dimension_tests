@@ -35,7 +35,7 @@
 			"type": "minecraft:carving_mask",
 			"config": {
 				"step": "air",
-				"probability": 0.3
+				"probability": 0.08
 			}
 		}
 	}

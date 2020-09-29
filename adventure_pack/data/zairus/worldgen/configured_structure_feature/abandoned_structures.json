@@ -1,0 +1,7 @@
+{
+	"type": "minecraft:village",
+	"config": {
+		"start_pool": "zairus:abandoned_structures/starts",
+		"size": 3
+	}
+}

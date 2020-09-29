@@ -12,7 +12,7 @@
 				},
 				"planted": false,
 				"valid_base_block": {
-					"Name": "minecraft:netherrack"
+					"Name": "minecraft:coarse_dirt"
 				},
 				"stem_state": {
 					"Properties": {

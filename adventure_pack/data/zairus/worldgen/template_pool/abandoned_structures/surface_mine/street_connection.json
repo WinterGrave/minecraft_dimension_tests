@@ -1,0 +1,33 @@
+{
+	"name": "zairus:abandoned_structures/surface_mine/street_connection",
+	"fallback": "minecraft:empty",
+	"elements": [
+		{
+			"weight": 4,
+			"element": {
+				"element_type": "minecraft:legacy_single_pool_element",
+				"location": "zairus:surface_mine/camps/camp1",
+				"processors": "minecraft:empty",
+				"projection": "terrain_matching"
+			}
+		},
+		{
+			"weight": 4,
+			"element": {
+				"element_type": "minecraft:legacy_single_pool_element",
+				"location": "zairus:surface_mine/camps/camp2",
+				"processors": "minecraft:empty",
+				"projection": "terrain_matching"
+			}
+		},
+		{
+			"weight": 4,
+			"element": {
+				"element_type": "minecraft:legacy_single_pool_element",
+				"location": "zairus:surface_mine/camps/camp3",
+				"processors": "minecraft:empty",
+				"projection": "terrain_matching"
+			}
+		}
+	]
+}
